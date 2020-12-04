@@ -428,7 +428,7 @@ address{
   position: absolute;
   width: 25px;
   height: 25px;
-  background-color: #000;
+  background-color: inherit;
   top: 0;
   left: 50%;
   transform: translate(-50%) rotate(45deg);
