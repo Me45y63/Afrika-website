@@ -418,7 +418,7 @@ address{
 .point-right,
 .point-left{
   position: relative;
-  background-color: #fff;
+  background-color: #000;
   display: flex;
 }
 
