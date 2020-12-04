@@ -418,7 +418,7 @@ address{
 .point-right,
 .point-left{
   position: relative;
-  background-color: #000;
+  background-color: #fff;
   display: flex;
 }
 
@@ -428,7 +428,7 @@ address{
   position: absolute;
   width: 25px;
   height: 25px;
-  background-color: inherit;
+  background-color: #000;
   top: 0;
   left: 50%;
   transform: translate(-50%) rotate(45deg);
@@ -437,7 +437,7 @@ address{
 
 .menu-item-desc{
   padding: 50px 10px;
-  color: #fff;
+  color: #212529;
   margin: auto;
   text-align: center;
 }
